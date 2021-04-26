@@ -1,0 +1,6 @@
+
+orm --> model --> db
+
+curd
+
+
