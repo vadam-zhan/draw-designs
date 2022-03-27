@@ -1,9 +1,0 @@
-# Created by .ignore support plugin (hsz.mobi)
-
-.exe
-
-bin/
-.vscode/
-.idea/
-.env
-.DS_Store

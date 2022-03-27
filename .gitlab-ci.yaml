@@ -1,5 +1,0 @@
-
-# gitlab ci/cd
-# stages -- job
-# build && deploy
-# 这里直接调用 makefile 里的make命令

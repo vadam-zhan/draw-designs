@@ -1,6 +1,0 @@
-
-orm --> model --> db
-
-curd
-
-
